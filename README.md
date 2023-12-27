@@ -1,5 +1,8 @@
-# test-assignments
-Real company interview test assignments and my solutions.
+# Test-assignments
+
+## Real Test Assignments from Major Russian Company Job Listings and My Solutions
+
+This collection showcases real-world test tasks extracted from job vacancies of major companies in Russia. These tasks are actual challenges set by businesses to evaluate practical skills. I have taken these real-life assignments and provided my solutions to them, demonstrating the application of my technical skills in a variety of business scenarios. This compilation serves as a practical showcase of my problem-solving abilities and technical expertise in a real-world business context.
 
 ## Completed
 
