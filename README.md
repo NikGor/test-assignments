@@ -3,7 +3,7 @@ Real company interview test assignments and my solutions.
 
 ## Completed
 
-✅ **Development of an API for currency conversion:** [Link](https://github.com/[your-link])
+✅ **Development of an API for currency conversion:** [Link](https://github.com/NikGor/currency-converter)
 
 ## Pending
 
