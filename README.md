@@ -8,6 +8,7 @@ This collection showcases real-world test tasks extracted from job vacancies of 
 
 ✅ **Development of an API for currency conversion:** [Assignment Description](https://docs.google.com/document/d/190wtDNCDUX826L_Tr0x_PsYNaxhBSBcdtbp7YSasYVQ/edit) | [GitHub Repository](https://github.com/NikGor/currency-converter)
 
+✅ **Hacker™ News proxy:** [Assignment Description](https://docs.google.com/document/d/190wtDNCDUX826L_Tr0x_PsYNaxhBSBcdtbp7YSasYVQ/edit) | [GitHub Repository](https://github.com/NikGor/NewsProxy)
 
 ## Pending
 
@@ -23,7 +24,7 @@ This collection showcases real-world test tasks extracted from job vacancies of 
 
 🔜 **Microservice for statistics counters:** [Link](https://github.com/[your-link])
 
-🔜 **Hacker™ News proxy:** [Link](https://github.com/[your-link])
+
 
 🔜 **User registration with React API:** [Link](https://github.com/[your-link])
 
