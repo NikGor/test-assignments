@@ -10,6 +10,8 @@ This collection showcases real-world test tasks extracted from job vacancies of 
 
 ✅ **Hacker™ News proxy:** [Assignment Description](https://github.com/ivelum/job/blob/master/challenges/python.md) | [GitHub Repository](https://github.com/NikGor/NewsProxy)
 
+✅ **User Balance Microservice:** [Assignment Description](https://github.com/avito-tech/internship_backend_2022) | [GitHub Repository](https://github.com/NikGor/user-balance-microservice)
+
 ## Pending
 
 🔜 **AVITO Microservice for user balance management:** [Link](https://github.com/[your-link])
