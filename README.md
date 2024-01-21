@@ -12,7 +12,7 @@ This collection showcases real-world test tasks extracted from job vacancies of 
 
 ✅ **AVITO Microservice for user balance management:** [Assignment Description](https://github.com/avito-tech/internship_backend_2022) | [GitHub Repository](https://github.com/NikGor/user-balance-microservice)
 
-✅ **Ostrovok service (API) for working with hotels:** [Assignment Description](https://github.com/ostrovok-team/code-challenge/blob/master/python/content-tech-task.md)[GitHub Repository](https://github.com/NikGor/hotel-aggregator-service)
+✅ **Ostrovok service (API) for working with hotels:** [Assignment Description](https://github.com/ostrovok-team/code-challenge/blob/master/python/content-tech-task.md) | [GitHub Repository](https://github.com/NikGor/hotel-aggregator-service)
 
 
 ## Pending
